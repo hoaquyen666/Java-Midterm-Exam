@@ -1,6 +1,6 @@
 ## Kiểm tra giữa kìa Java
 ```
-practive
+Java-Midterm-Exam
 │
 ├── Picture/
 │   ├── ExOne.png
