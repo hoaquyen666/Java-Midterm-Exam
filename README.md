@@ -1,4 +1,4 @@
-## Kiểm tra giữa kìa Java
+## Kiểm tra giữa kì Java
 ```
 Java-Midterm-Exam
 │
